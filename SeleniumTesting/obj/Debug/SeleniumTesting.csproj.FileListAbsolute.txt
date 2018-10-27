@@ -1,0 +1,13 @@
+E:\myProjects\TestAutomationSelenium\SeleniumTesting\SeleniumTesting\bin\Debug\SeleniumTesting.exe.config
+E:\myProjects\TestAutomationSelenium\SeleniumTesting\SeleniumTesting\bin\Debug\SeleniumTesting.exe
+E:\myProjects\TestAutomationSelenium\SeleniumTesting\SeleniumTesting\bin\Debug\SeleniumTesting.pdb
+E:\myProjects\TestAutomationSelenium\SeleniumTesting\SeleniumTesting\bin\Debug\nunit.framework.dll
+E:\myProjects\TestAutomationSelenium\SeleniumTesting\SeleniumTesting\bin\Debug\WebDriver.dll
+E:\myProjects\TestAutomationSelenium\SeleniumTesting\SeleniumTesting\bin\Debug\nunit.framework.pdb
+E:\myProjects\TestAutomationSelenium\SeleniumTesting\SeleniumTesting\bin\Debug\nunit.framework.xml
+E:\myProjects\TestAutomationSelenium\SeleniumTesting\SeleniumTesting\bin\Debug\WebDriver.xml
+E:\myProjects\TestAutomationSelenium\SeleniumTesting\SeleniumTesting\obj\Debug\SeleniumTesting.csprojAssemblyReference.cache
+E:\myProjects\TestAutomationSelenium\SeleniumTesting\SeleniumTesting\obj\Debug\SeleniumTesting.csproj.CoreCompileInputs.cache
+E:\myProjects\TestAutomationSelenium\SeleniumTesting\SeleniumTesting\obj\Debug\SeleniumTesting.csproj.CopyComplete
+E:\myProjects\TestAutomationSelenium\SeleniumTesting\SeleniumTesting\obj\Debug\SeleniumTesting.exe
+E:\myProjects\TestAutomationSelenium\SeleniumTesting\SeleniumTesting\obj\Debug\SeleniumTesting.pdb
